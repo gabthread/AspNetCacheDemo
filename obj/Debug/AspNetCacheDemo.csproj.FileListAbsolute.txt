@@ -1,0 +1,13 @@
+C:\Users\GonzalezG\Documents\Visual Studio 2013\Projects\AspNetCacheDemo\bin\Debug\AspNetCacheDemo.dll
+C:\Users\GonzalezG\Documents\Visual Studio 2013\Projects\AspNetCacheDemo\bin\Debug\AspNetCacheDemo.pdb
+C:\Users\GonzalezG\Documents\Visual Studio 2013\Projects\AspNetCacheDemo\obj\Debug\AspNetCacheDemo.dll
+C:\Users\GonzalezG\Documents\Visual Studio 2013\Projects\AspNetCacheDemo\obj\Debug\AspNetCacheDemo.pdb
+C:\Gabriel\Blog\AspNetCacheDemo\bin\Debug\AspNetCacheDemo.dll
+C:\Gabriel\Blog\AspNetCacheDemo\bin\Debug\AspNetCacheDemo.pdb
+C:\Gabriel\Blog\AspNetCacheDemo\obj\Debug\AspNetCacheDemo.dll
+C:\Gabriel\Blog\AspNetCacheDemo\obj\Debug\AspNetCacheDemo.pdb
+C:\Gabriel\Blog\AspNetCacheDemo2\bin\Debug\AspNetCacheDemo.dll
+C:\Gabriel\Blog\AspNetCacheDemo2\bin\Debug\AspNetCacheDemo.pdb
+C:\Gabriel\Blog\AspNetCacheDemo2\obj\Debug\AspNetCacheDemo.csprojResolveAssemblyReference.cache
+C:\Gabriel\Blog\AspNetCacheDemo2\obj\Debug\AspNetCacheDemo.dll
+C:\Gabriel\Blog\AspNetCacheDemo2\obj\Debug\AspNetCacheDemo.pdb

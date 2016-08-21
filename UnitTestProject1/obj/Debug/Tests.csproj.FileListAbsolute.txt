@@ -1,0 +1,21 @@
+C:\Users\GonzalezG\Documents\Visual Studio 2013\Projects\AspNetCacheDemo\UnitTestProject1\bin\Debug\AspNetCacheDemo.dll
+C:\Users\GonzalezG\Documents\Visual Studio 2013\Projects\AspNetCacheDemo\UnitTestProject1\bin\Debug\AspNetCacheDemo.pdb
+C:\Users\GonzalezG\Documents\Visual Studio 2013\Projects\AspNetCacheDemo\UnitTestProject1\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\GonzalezG\Documents\Visual Studio 2013\Projects\AspNetCacheDemo\UnitTestProject1\bin\Debug\Tests.dll
+C:\Users\GonzalezG\Documents\Visual Studio 2013\Projects\AspNetCacheDemo\UnitTestProject1\bin\Debug\Tests.pdb
+C:\Users\GonzalezG\Documents\Visual Studio 2013\Projects\AspNetCacheDemo\UnitTestProject1\obj\Debug\Tests.dll
+C:\Users\GonzalezG\Documents\Visual Studio 2013\Projects\AspNetCacheDemo\UnitTestProject1\obj\Debug\Tests.pdb
+C:\Gabriel\Blog\AspNetCacheDemo\UnitTestProject1\bin\Debug\Tests.dll
+C:\Gabriel\Blog\AspNetCacheDemo\UnitTestProject1\bin\Debug\Tests.pdb
+C:\Gabriel\Blog\AspNetCacheDemo\UnitTestProject1\bin\Debug\AspNetCacheDemo.dll
+C:\Gabriel\Blog\AspNetCacheDemo\UnitTestProject1\bin\Debug\AspNetCacheDemo.pdb
+C:\Gabriel\Blog\AspNetCacheDemo\UnitTestProject1\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Gabriel\Blog\AspNetCacheDemo\UnitTestProject1\obj\Debug\Tests.dll
+C:\Gabriel\Blog\AspNetCacheDemo\UnitTestProject1\obj\Debug\Tests.pdb
+C:\Gabriel\Blog\AspNetCacheDemo2\UnitTestProject1\bin\Debug\Tests.dll
+C:\Gabriel\Blog\AspNetCacheDemo2\UnitTestProject1\bin\Debug\Tests.pdb
+C:\Gabriel\Blog\AspNetCacheDemo2\UnitTestProject1\bin\Debug\AspNetCacheDemo.dll
+C:\Gabriel\Blog\AspNetCacheDemo2\UnitTestProject1\bin\Debug\AspNetCacheDemo.pdb
+C:\Gabriel\Blog\AspNetCacheDemo2\UnitTestProject1\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Gabriel\Blog\AspNetCacheDemo2\UnitTestProject1\obj\Debug\Tests.dll
+C:\Gabriel\Blog\AspNetCacheDemo2\UnitTestProject1\obj\Debug\Tests.pdb
